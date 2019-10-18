@@ -9,4 +9,4 @@ Go to the game version of the picoCTF challenge (located in the game tab of the 
 
 Once you get all 6 glyphs, they will form a QR code, with the output `password: xmfv53uqkf621gakvh502gxfu1g78glds`. The string of text can then be put in as the password for the computer in the beginning room of the gamepage. Once inputted, a dialogue will initiate, where one of `the_artist` will suggest `zerozerozerozero` instead of `0000`. 
 
-Submit the flag as picoCTF{zerozerozerozero}
+Submit the flag as `picoCTF{zerozerozerozero}`
