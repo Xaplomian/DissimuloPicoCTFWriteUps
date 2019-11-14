@@ -7,6 +7,8 @@ Worth 50 points.
 The password is revealed in the program's source code.
 
 #Source Code Given
+
+```java
 class VaultDoorTraining {
     public static void main(String args[]) {
         VaultDoorTraining vaultDoor = new VaultDoorTraining();
@@ -31,10 +33,10 @@ class VaultDoorTraining {
         return password.equals("w4rm1ng_Up_w1tH_jAv4_87f51143e4b");
     }
 }
-
+```
 
 # Solution
-Take the string of the password check "w4rm1ng_Up_w1tH_jAv4_87f51143e4b", then put into flag format
+Take the string of the check password function "w4rm1ng_Up_w1tH_jAv4_87f51143e4b", then put into flag format.
 
 #Flag
 picoCTF(w4rm1ng_Up_w1tH_jAv4_87f51143e4b}
