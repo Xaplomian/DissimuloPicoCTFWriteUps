@@ -6,7 +6,7 @@ Try using an emulator or device
 https://developer.android.com/studio
 
 # Details
-Completed: **During challenge**
+Completed: **During challenge**  
 Flag: `picoCTF{a.moose.once.bit.my.sister}`
 
 # Solution
