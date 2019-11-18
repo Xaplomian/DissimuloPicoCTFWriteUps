@@ -41,7 +41,7 @@ char[] expected = {0xF4, 0xC0, 0x97, 0xF0, 0x77, 0x97, 0xC0, 0xE4, 0xF0, 0x77, 0
 It is best to write a script to do this, doing this by hand would take too long.
 
 1. Convert Code into readable format. Compare original code to formatted code.
-2. Put in the given hex codes into the script to process..
+2. Put in the given hex codes into the script to process.
 3. Create a bit switch function in your script, for python simply remove the type definitions from the switchBits function in the java.
 4. Call the switch bits with the bits given. Make sure to call it in reverse order of calls given in the java. 
 
