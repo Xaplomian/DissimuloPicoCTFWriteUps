@@ -1,4 +1,3 @@
-#UNFINISHED I FORGOT HOW TO DO
 # vault-door-7
 This vault uses bit shifts to convert a password string into an array of integers. Hurry, agent, we are running out of time to stop Dr. Evil's nefarious plans! The source code for this vault is here: VaultDoor7.java
 
@@ -43,6 +42,7 @@ for (int i=0; i<8; i++) {
 3. Convert each binary number to its ASCII character.
 4. You have your flag. 
 
+Also refer to attached python script.
 
 # Flag
 picoCTF{A_b1t_0f_b1t_sh1fTiNg_8bed9056b9}
