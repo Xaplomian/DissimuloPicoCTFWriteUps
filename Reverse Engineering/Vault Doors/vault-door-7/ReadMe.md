@@ -39,6 +39,10 @@ for (int i=0; i<8; i++) {
 ```
 
 1. Convert each decimal number into binary.
+2. Split the long binary number into four binary numbers of length eight.
+3. Convert each binary number to its ASCII character.
+4. You have your flag. 
 
 
 # Flag
+picoCTF{A_b1t_0f_b1t_sh1fTiNg_8bed9056b9}
