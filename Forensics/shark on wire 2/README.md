@@ -5,8 +5,8 @@ We found this [packet capture](https://2019shell1.picoctf.com/static/dcd259894e0
 None
 
 # Details
-Completed: *During Challenge*
-flag: `picoCTF{p1LLf3r3d_data_v1a_st3g0}`
+Completed: After challenge  
+Flag: `picoCTF{p1LLf3r3d_data_v1a_st3g0}`
 
 # Solution
 Building on the skills from *shark on wire 1*, you arrive at the program Wireshark  
