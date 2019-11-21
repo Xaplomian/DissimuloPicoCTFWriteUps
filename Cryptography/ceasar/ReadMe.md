@@ -3,13 +3,15 @@ Decrypt this message. You can find the ciphertext in /problems/caesar_4_33e5994a
 
 Message is 'picoCTF{odaeeuzsftqdgnuoazxvymiumq}'
 
-# Hint
+Worth 100 points.
+
+## Hint
 caesar cipher [tutorial](https://learncryptography.com/classical-encryption/caesar-cipher)
 
-# Solution
+## Solution
 Use this website https://cryptii.com/pipes/caesar-cipher and go through each number until you get a string that works (it is 14).
 
-# Details
+## Details
 Done by: James
 Completed: *During challenge*
 flag: `picoCTF{crossingtherubiconljmawiae}`

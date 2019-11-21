@@ -1,14 +1,13 @@
 # vault-door-3
-# Challenge
 This vault uses for-loops and byte arrays. The source code for this vault is here: VaultDoor3.java
 
 Worth 200 points.
 
-# Hint
+## Hint
 Make a table that contains each value of the loop variables and the corresponding buffer index that it writes to.
 
-# Solution
-## Relevant Code
+## Solution
+### Relevant Code
 ```java
         char[] buffer = new char[32];
         int i;
@@ -42,5 +41,7 @@ This loop is more complicated than the other loops because the index is increase
 Loop 4:
 In this loop we go backwards from 31 to 17. This one is simple and does not move the digits around. So we just put in the characters at the same location to get the orignal string. This makes the flag be: "jU5t_a_s1mp13_an4gr4m_4_u_7f35db"
 
-## Flag
+### Details
+Done by: James
+Completed: *During challenge*
 picoCTF{jU5t_a_s1mp13_an4gr4m_4_u_7f35db}

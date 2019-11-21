@@ -1,13 +1,15 @@
 # 13
-Cryptography can be easy, do you know what ROT13 is? cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}
+Cryptography can be easy, do you know what ROT13 is? cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}.
 
-# Hint
+Worth 100 points.
+
+## Hint
 This can be solved online if you don't want to do it by hand!
 
-# Solution
+## Solution
 Paste the string into https://rot13.com/
 
-# Details
+## Details
 Done by: James
 Completed: *During challenge*
 flag: `picoCTF{not_too_bad_of_a_problem}`

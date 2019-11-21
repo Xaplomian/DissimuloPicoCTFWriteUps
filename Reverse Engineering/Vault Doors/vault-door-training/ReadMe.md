@@ -3,11 +3,20 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 
 Worth 50 points.
 
-# Hint
+## Hint
 The password is revealed in the program's source code.
 
-# Solution
+## Solution
+### Relavent Code
+```java
+public boolean checkPassword(String password) {
+    return password.equals("w4rm1ng_Up_w1tH_jAv4_87f51143e4b");
+}
+````
+
 Take the string of the check password function "w4rm1ng_Up_w1tH_jAv4_87f51143e4b", then put into flag format.
 
-# Flag
-picoCTF(w4rm1ng_Up_w1tH_jAv4_87f51143e4b}
+## Details
+Done by: James
+Completed: *During challenge*
+flag: `picoCTF(w4rm1ng_Up_w1tH_jAv4_87f51143e4b}`

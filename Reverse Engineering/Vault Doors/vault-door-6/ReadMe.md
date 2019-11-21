@@ -3,11 +3,11 @@ This vault uses an XOR encryption scheme. The source code for this vault is here
 
 Worth 600 points.
 
-# Hint
+## Hint
 If X ^ Y = Z, then Z ^ Y = X. Write a program that decrypts the flag based on this fact.
 
-# Solution
-## Relavent Code
+## Solution
+### Relavent Code
 ```java
 byte[] passBytes = password.getBytes();
 byte[] myBytes = {
@@ -22,7 +22,7 @@ for (int i=0; i<32; i++) {
     }
 }
 ```
-This was done primarily with python scripts, a python script is attached.
+This was done primarily with python scripts, a combined python script is attached.
 
 1. Convert the hex values to binary. A length of seven binary digits is needed, so that each value has the same number of digits to compare against the key. Eight is not needed, because if there was eight each value would have 0 first which is unnecessary processing. 
 	1. Convert the key. The key is the hex character in `if (((passBytes[i] ^ 0x55)`. It is best to do this by hand from an ASCII table.
@@ -40,5 +40,7 @@ This was done primarily with python scripts, a python script is attached.
 4. Get the flag.
 
 
-# Flag
+## Details
+Done by: James
+Completed: *During challenge*
 picoCTF{n0t_mUcH_h4rD3r_tH4n_x0r_aedeced}

@@ -3,12 +3,12 @@ Apparently Dr. Evil's minions knew that our agency was making copies of their so
 
 Worth 450 points.
 
-# Hints
+## Hints
 Clean up the source code so that you can read it and understand what is going on.
 Draw a diagram to illustrate which bits are being switched in the scramble() method, then figure out a sequence of bit switches to undo it. You should be able to reuse the switchBits() method as is.
 
-# Solution
-##Relavent Code
+## Solution
+### Relevant Code
 ```java
 //commented out code removed as it is unnecessary
 for (int b=0; b<a.length; b++) {
@@ -47,5 +47,7 @@ It is best to write a script to do this, doing this by hand would take too long.
 
 
 
-# Flag
+## Details
+Done by: James
+Completed: *During challenge*
 picoCTF{s0m3_m0r3_b1t_sh1fTiNg_ad0f0c833}

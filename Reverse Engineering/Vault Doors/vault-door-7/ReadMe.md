@@ -3,12 +3,12 @@ This vault uses bit shifts to convert a password string into an array of integer
 
 Worth 400 points.
 
-# Hints
+## Hints
 Use a decimal/hexademical converter such as this one: https://www.mathsisfun.com/binary-decimal-hexadecimal-converter.html
 You will also need to consult an ASCII table such as this one: https://www.asciitable.com/
 
-# Solution
-## Relevant Code
+## Solution
+### Relevant Code
 ```java
 public int[] passwordToIntArray(String hex) {
 int[] x = new int[8];
@@ -44,5 +44,7 @@ for (int i=0; i<8; i++) {
 
 Also refer to attached python script.
 
-# Flag
+## Details
+Done by: James
+Completed: *During challenge*
 picoCTF{A_b1t_0f_b1t_sh1fTiNg_8bed9056b9}

@@ -3,12 +3,12 @@ This vault uses ASCII encoding for the password. The source code for this vault 
 
 Worth 250 points
 
-# Hints
+## Hints
 Use a search engine to find an "ASCII table".
 You will also need to know the difference between octal, decimal, and hexademical numbers. //The spelling mistake is present on the site.
 
-# Solution
-## Relavent Code
+## Solution
+### Relevant Code
 ```java
 byte[] myBytes = {
     106 , 85  , 53  , 116 , 95  , 52  , 95  , 98  ,
@@ -25,5 +25,7 @@ Line 3: byt3s_ca
 Line 4: 724c8f92
 Putting this all together: jU5t_4_bUnCh_0f_byt3s_ca724c8f92
 
-## Flag
+### Flag
+Done by: James
+Completed: *During challenge*
 picoCTF{jU5t_4_bUnCh_0f_byt3s_ca724c8f92}
