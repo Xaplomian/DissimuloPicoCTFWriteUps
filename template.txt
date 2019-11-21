@@ -1,13 +1,13 @@
 # Problem title
 Problem description
 
-# Hint
+## Hint
 Hint description OR None
 
-# Details
-Done by: [da person] exedee
+## Solution
+Solution description
+
+## Details
+Done by: [da person]
 Completed: *(During challenge/After challenge)*
 flag: `flag`
-
-# Solution
-Solution description
