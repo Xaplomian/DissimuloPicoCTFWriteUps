@@ -10,4 +10,4 @@ Just convert 42 into binary which is 101010
 ## Details
 Done by: James
 Completed: *During challenge*
-flag: `101010`
+Flag: `101010`
