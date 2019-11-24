@@ -8,6 +8,7 @@ Hint description OR None
 Solution description
 
 ## Details
-Done by: [da person]
 Completed: *(During challenge/After challenge)*
+Points: **[points]**
+Done by: [person]
 Flag: `flag`
