@@ -41,6 +41,6 @@ This was done primarily with python scripts, a combined python script is attache
 
 
 ## Details
-Done by: James
-Completed: *During challenge*
-picoCTF{n0t_mUcH_h4rD3r_tH4n_x0r_aedeced}
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{n0t_mUcH_h4rD3r_tH4n_x0r_aedeced}`  
