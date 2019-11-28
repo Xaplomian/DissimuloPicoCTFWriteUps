@@ -12,6 +12,6 @@ https://developer.android.com/studio
 
 
 ## Details
-Done by: James
-Completed: *During competition^
-Flag: ``
+Done by: James  
+Completed: *During competition*  
+Flag: `something...`  
