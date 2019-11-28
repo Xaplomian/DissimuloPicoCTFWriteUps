@@ -17,6 +17,6 @@ public boolean checkPassword(String password) {
 Take the string of the check password function "w4rm1ng_Up_w1tH_jAv4_87f51143e4b", then put into flag format.
 
 ## Details
-Done by: James
-Completed: *During challenge*
-flag: `picoCTF(w4rm1ng_Up_w1tH_jAv4_87f51143e4b}`
+Done by: James  
+Completed: *During challenge*  
+flag: `picoCTF{w4rm1ng_Up_w1tH_jAv4_87f51143e4b}`
