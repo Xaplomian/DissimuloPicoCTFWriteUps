@@ -26,6 +26,6 @@ Line 4: 724c8f92
 Putting this all together: jU5t_4_bUnCh_0f_byt3s_ca724c8f92
 
 ### Flag
-Done by: James
-Completed: *During challenge*
-picoCTF{jU5t_4_bUnCh_0f_byt3s_ca724c8f92}
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{jU5t_4_bUnCh_0f_byt3s_ca724c8f92}`  
