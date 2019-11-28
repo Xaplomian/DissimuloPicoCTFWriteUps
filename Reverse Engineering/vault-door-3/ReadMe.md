@@ -42,6 +42,6 @@ Loop 4:
 In this loop we go backwards from 31 to 17. This one is simple and does not move the digits around. So we just put in the characters at the same location to get the orignal string. This makes the flag be: "jU5t_a_s1mp13_an4gr4m_4_u_7f35db"
 
 ### Details
-Done by: James
-Completed: *During challenge*
-picoCTF{jU5t_a_s1mp13_an4gr4m_4_u_7f35db}
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{jU5t_a_s1mp13_an4gr4m_4_u_7f35db}`
