@@ -48,6 +48,6 @@ It is best to write a script to do this, doing this by hand would take too long.
 
 
 ## Details
-Done by: James
-Completed: *During challenge*
-picoCTF{s0m3_m0r3_b1t_sh1fTiNg_ad0f0c833}
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{s0m3_m0r3_b1t_sh1fTiNg_ad0f0c833}`  
