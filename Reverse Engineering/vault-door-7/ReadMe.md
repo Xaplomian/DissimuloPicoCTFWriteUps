@@ -45,6 +45,6 @@ for (int i=0; i<8; i++) {
 Also refer to attached python script.
 
 ## Details
-Done by: James
-Completed: *During challenge*
-picoCTF{A_b1t_0f_b1t_sh1fTiNg_8bed9056b9}
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{A_b1t_0f_b1t_sh1fTiNg_8bed9056b9}`  
