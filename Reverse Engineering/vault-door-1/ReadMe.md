@@ -53,6 +53,6 @@ When rearranged they form the string: d35cr4mbl3_tH3_cH4r4cT3r5_03f841
 Then put this into the correct flag form.
 
 ## Details
-Done by: James
-Completed: *During challenge*
-Flag: 'picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_03f841}'
+Done by: James  
+Completed: *During challenge*  
+Flag: `picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_03f841}`
